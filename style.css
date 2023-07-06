@@ -1,0 +1,21 @@
+body{
+    margin:20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.image{
+    width:150px;
+    border-radius: 50%;
+}
+.card{
+    display: flex;
+    justify-content:space-around;
+    padding: 20px;
+    width: 400px;
+    margin:0 auto;
+    text-align: center;
+    background-image: linear-gradient(#F9FBE7,#F0EDD4,#ECCDB4,#FEA1A1);
+    color: #606C5D;
+    
+    
+}
+
